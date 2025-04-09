@@ -13,7 +13,8 @@ AtliQ Grands, with over 20 years in the hospitality industry, is facing a dip in
 	
 📈 Key KPIs Tracked:
 
-✅ ADR (Average Daily Rate) – Revenue earned per occupied room
+✅ ADR (Average Daily Rate) – Revenue earned per occupied room  
+
 ✅ Occupancy % – Hotel capacity utilization
 ✅ RevPAR (Revenue Per Available Room) – Key profitability metric
 ✅ DSRN (Daily Sellable Room Nights) – Total available room nights for sale
