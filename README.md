@@ -15,17 +15,11 @@ AtliQ Grands, with over 20 years in the hospitality industry, is facing a dip in
 
 ✅ ADR (Average Daily Rate) – Revenue earned per occupied room  
 ✅ Occupancy % – Hotel capacity utilization 
-
 ✅ RevPAR (Revenue Per Available Room) – Key profitability metric 
-
 ✅ DSRN (Daily Sellable Room Nights) – Total available room nights for sale 
-
 ✅ DBRN (Daily Booked Room Nights) – Total number of rooms booked per day 
-
 ✅ DURN (Daily Utilized Room Nights) – Total number of rooms actually utilized per day 
-
 ✅ Bookings & Revenue Trends – Monitoring overall performance growth 
-
 ✅ Realization % by Booking Platforms – Evaluating efficiency across different sales channels 
 
 
@@ -38,3 +32,4 @@ AtliQ Grands, with over 20 years in the hospitality industry, is facing a dip in
 ➡ Elite room categories generate the highest revenue, making them key to profitability.
 ➡ Mumbai alone contributes nearly 40% of total revenue among the 4 cities analyzed.
 ➡ Seasonal pricing and differentiated weekday/weekend rates present a clear opportunity to boost overall revenue.
+
